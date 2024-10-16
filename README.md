@@ -14,6 +14,11 @@ This project provides an in-depth analysis of property prices in Melbourne, usin
 ## Usage
 - Download the `Assignment2_Report.docx` for detailed insights.
 - Open the `Task2_1_Solution.xlsx` and `Task2_2_and_3_Solution.xlsx` files in Excel to explore the data analysis and regression models.
+
+## Usage
+- Download the [Assignment2_Report.docx](https://github.com/chanpheakka/Property-Price-Analysis-Melbourne/blob/main/22132937_Assignment2_Report.docx) for detailed insights.
+- Open the [Task2_1_Solution.xlsx](https://github.com/chanpheakka/Property-Price-Analysis-Melbourne/blob/main/22132937_Assignment2_Task2_1_Solution.xlsx) and [Task2_2_and_3_Solution.xlsx](https://github.com/chanpheakka/Property-Price-Analysis-Melbourne/blob/main/22132937_Assignment2_Task2_2-and-3_Solution.xlsx) files in Excel to explore the data analysis and regression models.
+
   
 ## Results
 - Western Metropolitan properties generally have higher prices than Eastern Metropolitan.
